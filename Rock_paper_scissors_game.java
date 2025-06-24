@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Rock_paper_scissors_game {
     public static void main(String []Args){
 
+
 //GENERATING A RANDOM NUMBER
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
@@ -66,5 +67,7 @@ public class Rock_paper_scissors_game {
             System.out.println("Invalid response please enter a b c d");
         }
 
-    }
+}
+
+    
 }
