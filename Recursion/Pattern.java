@@ -1,5 +1,5 @@
 
-public class q4 {
+public class Pattern {
     static void pattern(int n){
         for(int i =1; i<=n; i++){
             for(int j =1; j<i+1; j++){
@@ -12,3 +12,4 @@ public class q4 {
        pattern(5);
     }
 }
+
