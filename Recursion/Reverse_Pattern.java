@@ -1,4 +1,4 @@
-public class q6 {
+public class Reverse_Pattern {
     static void pattern(int n){
         for(int i = n; i>=0; i--){
             for(int j =1; j<i+1; j++){
@@ -11,3 +11,4 @@ public class q6 {
         pattern(5);
     }
 }
+
